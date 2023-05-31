@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #290736;
+    color: #fff201;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 28px;
+}
+h1:hover{
+    color: orange;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+li a:hover {
+    color: rgb(141, 255, 34);
+}
+
+section {
+    padding: 20px;
+    text-align: center;
+}
+.judul {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    text-align: center;
+}
+.kolom{
+    color: #4d147f;
+    font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    word-spacing: 100px;
+}
+.header34{
+    background-color: #ffc001;
+    width: 320px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #290736;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 15px;
+}
+.header34:hover {
+    background-color: aquamarine;
+    color: #000000;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table th, table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  table th {
+    background-color: #f2f2f2;
+    color: #333;
+  }
+  
+  table tbody tr:hover {
+    background-color: #f5f5f5;
+  }
+  
